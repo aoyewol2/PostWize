@@ -1,3 +1,5 @@
+# PostWize
+
 ## Inspiration
 As students, we're well acquainted with the stress that comes with applying for jobs. There are so many applications, meeting dates, and documents to keep track of- all that overhead in addition to actually having to prepare for the interview. We began to wonder- is there any way to make this process a little less hectic?
 
